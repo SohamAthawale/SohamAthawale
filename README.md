@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **flutter Selenium and Python**
 
-- 📫 How to reach me **asoham60@gmail.com**
+- 📫 How to reach me **sohamathawale2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
