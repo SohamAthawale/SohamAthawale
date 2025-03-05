@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Soham Athawale</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-- 🔭 I’m currently working on **Skillearn**
+- 🔭 I’m currently working on **SimpleAutomate**
 
 - 🌱 I’m currently learning **Flutter,react and a bit of backend**
 
-- 💬 Ask me about **flutter and swift**
+- 💬 Ask me about **flutter Selenium and Python**
 
 - 📫 How to reach me **asoham60@gmail.com**
 
