@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter,react and a bit of backend**
 
-- 💬 Ask me about **flutter Selenium and Python**
+- 💬 Ask me about **flutter Selenium,Flutter and Python**
 
 - 📫 How to reach me **sohamathawale2003@gmail.com**
 
