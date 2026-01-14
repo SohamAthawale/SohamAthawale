@@ -1,24 +1,129 @@
 <h1 align="center">Hi 👋, I'm Soham Athawale</h1>
-<h3 align="center">A passionate Flutter developer from India</h3>
+<h3 align="center">Aspiring Data Scientist | Backend & Analytics Engineer</h3>
 
-- 🔭 I’m currently working on **RentMYHouse**
-
-- 🌱 I’m currently learning **Flutter,react and a bit of backend**
-
-- 💬 Ask me about **flutter Selenium,Flutter and Python**
-
-- 📫 How to reach me **sohamathawale2003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soham athawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham athawale" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/soham-athawale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="mailto:sohamathawale2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sohamathawale&show_icons=true&locale=en&layout=compact" alt="sohamathawale" /></p>
+## 👨‍🎓 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sohamathawale&show_icons=true&locale=en" alt="sohamathawale" /></p>
+- 🎓 **B.Tech in Computer Science Engineering** — VIT (2025)
+- 📊 Incoming **Data Science graduate student**
+- 💼 **IT Intern at HDFC Asset Management Company**
+- 🔍 Focused on **data analytics, ETL pipelines, financial data processing, and backend systems**
+- 🧠 Strong interest in **FinTech, portfolio analytics, and data-driven decision systems**
+- 💬 Ask me about **Python, SQL, data pipelines, analytics, Flask APIs, PostgreSQL**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamathawale&" alt="sohamathawale" /></p>
+---
+
+## 🧑‍💼 Experience
+
+### 💼 Information Technology Intern — HDFC Asset Management Company  
+**Sep 2025 – Present**
+
+- Built a **Portfolio Management System** to analyze equity and mutual fund data
+- Designed **automated ETL pipelines** for ECAS PDF ingestion using Python
+- Extracted and normalized financial data using **PyMuPDF and regex**
+- Designed **PostgreSQL schemas** for holdings, historical snapshots, and valuation data
+- Performed **portfolio aggregation, valuation analysis, and trend analytics**
+- Developed **interactive analytics dashboards** for asset allocation insights  
+
+**Tech:** Python, SQL, PostgreSQL, Flask, PyMuPDF, React, Recharts, Git, Linux
+
+---
+
+### 💼 Information Technology Intern — HDFC Asset Management Company  
+**Jan 2025 – Jun 2025**
+
+- Automated **data-driven CRM and reporting workflows** using Python
+- Built scheduled **AWS-based data pipelines** using boto3
+- Enabled analytics access through **AWS QuickSight dashboards**
+- Supported operational analytics and reporting teams  
+
+**Tech:** Python, AWS, boto3, QuickSight, Power Automate
+
+---
+
+## 📊 Projects
+
+### 📈 Portfolio Management System (PMS)
+**Data analytics platform for ECAS financial statements**
+
+- Automated extraction of ISINs, asset names, and holding values from PDFs
+- Built structured **PostgreSQL schemas** for portfolio and historical data
+- Implemented **aggregation & valuation analytics**
+- Visualized portfolio composition and trends via dashboards  
+
+**Tech:** Python, Flask, PostgreSQL, PyMuPDF, React, Recharts  
+🔗 github.com/PMS
+
+---
+
+### 🏠 RentMyHome
+**Data-backed full-stack system with strong backend modeling**
+
+- Designed relational database schemas for users, properties, and financial records
+- Built secure **Flask REST APIs** for data access and transactions
+- Implemented role-based workflows and validated end-to-end data flows  
+
+**Tech:** Flask, PostgreSQL, SQLAlchemy, React, Git, Linux  
+🔗 github.com/RentMyHome
+
+---
+
+## 🛠️ Technical Skills
+
+### **Programming & Data**
+`Python` `SQL` `JavaScript` `C++` `Java`
+
+### **Data & Analytics**
+`Pandas` `Power BI` `Recharts`  
+`Data Cleaning` `ETL Pipelines` `Financial Analytics`
+
+### **Backend & Databases**
+`Flask` `PostgreSQL` `SQLAlchemy`
+
+### **Cloud & Tools**
+`AWS (S3, Lambda, QuickSight, boto3)`  
+`Git` `Linux`
+
+---
+
+## 📜 Certifications
+
+- ☁️ **AWS Certified Cloud Practitioner** (Valid till 01/2027)
+- ☁️ **Google Cloud Digital Leader** (Valid till 02/2027)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohamathawale&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamathawale" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamathawale&layout=compact" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** sohamathawale2003@gmail.com  
+- 💼 **LinkedIn:** https://linkedin.com/in/soham-athawale  
+
+---
+
+⭐️ *Focused on building data-driven systems and real-world analytics.*
