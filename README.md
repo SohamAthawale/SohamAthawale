@@ -1,129 +1,198 @@
-<h1 align="center">Hi 👋, I'm Soham Athawale</h1>
-<h3 align="center">Aspiring Data Scientist | Backend & Analytics Engineer</h3>
+<h1 align="center">Hi, I'm Soham Athawale</h1>
+<h3 align="center">Software Engineer | Distributed Systems | Backend, Data & AI Infrastructure</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/soham-athawale" target="_blank">
+  <a href="https://linkedin.com/in/SohamAthawale" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
   <a href="mailto:sohamathawale2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail" />
   </a>
+  <a href="https://github.com/SohamAthawale">
+    <img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" />
+  </a>
 </p>
 
 ---
 
-## 👨‍🎓 About Me
+## About Me
 
-- 🎓 **B.Tech in Computer Science Engineering** — VIT (2025)
-- 📊 Incoming **Data Science graduate student**
-- 💼 **IT Intern at HDFC Asset Management Company**
-- 🔍 Focused on **data analytics, ETL pipelines, financial data processing, and backend systems**
-- 🧠 Strong interest in **FinTech, portfolio analytics, and data-driven decision systems**
-- 💬 Ask me about **Python, SQL, data pipelines, analytics, Flask APIs, PostgreSQL**
+I'm a software engineer based in Melbourne, currently pursuing a **Master of Science in Data Science at RMIT University**.
 
----
+I build backend systems, data platforms, automation workflows, and distributed compute tools. My work sits at the intersection of:
 
-## 🧑‍💼 Experience
+- distributed systems
+- backend engineering
+- data pipelines
+- financial analytics
+- local AI infrastructure
+- cloud and automation
 
-### 💼 Information Technology Intern — HDFC Asset Management Company  
-**Sep 2025 – Present**
-
-- Built a **Portfolio Management System** to analyze equity and mutual fund data
-- Designed **automated ETL pipelines** for ECAS PDF ingestion using Python
-- Extracted and normalized financial data using **PyMuPDF and regex**
-- Designed **PostgreSQL schemas** for holdings, historical snapshots, and valuation data
-- Performed **portfolio aggregation, valuation analysis, and trend analytics**
-- Developed **interactive analytics dashboards** for asset allocation insights  
-
-**Tech:** Python, SQL, PostgreSQL, Flask, PyMuPDF, React, Recharts, Git, Linux
+Most recently, I've been building **ScaleServe**, a distributed remote execution and LLM inference platform that lets machines across a private network run workloads, stream SSH commands, and serve sharded LLMs using Tailscale, SSH, Flutter, FastAPI, PostgreSQL, and llama.cpp.
 
 ---
 
-### 💼 Information Technology Intern — HDFC Asset Management Company  
-**Jan 2025 – Jun 2025**
+## What I'm Building
 
-- Automated **data-driven CRM and reporting workflows** using Python
-- Built scheduled **AWS-based data pipelines** using boto3
-- Enabled analytics access through **AWS QuickSight dashboards**
-- Supported operational analytics and reporting teams  
+### ScaleServe
+**Distributed remote execution and LLM inference platform**
 
-**Tech:** Python, AWS, boto3, QuickSight, Power Automate
+ScaleServe is an operator console for managing remote machines across a zero-trust network.
 
----
+It supports:
 
-## 📊 Projects
+- remote SSH command execution
+- script streaming across machines
+- fleet and SSH key management
+- JWT authentication, MFA, and RBAC
+- distributed LLM inference
+- llama.cpp RPC model sharding
+- local app + terminal CLI workflows
+- deployment on Oracle Cloud behind nginx + HTTPS
 
-### 📈 Portfolio Management System (PMS)
-**Data analytics platform for ECAS financial statements**
-
-- Automated extraction of ISINs, asset names, and holding values from PDFs
-- Built structured **PostgreSQL schemas** for portfolio and historical data
-- Implemented **aggregation & valuation analytics**
-- Visualized portfolio composition and trends via dashboards  
-
-**Tech:** Python, Flask, PostgreSQL, PyMuPDF, React, Recharts  
-🔗 github.com/PMS
+**Tech:** Flutter, Dart, FastAPI, Python, PostgreSQL, Tailscale, SSH, nginx, Oracle Cloud, llama.cpp
 
 ---
 
-### 🏠 RentMyHome
-**Data-backed full-stack system with strong backend modeling**
+## Experience
 
-- Designed relational database schemas for users, properties, and financial records
-- Built secure **Flask REST APIs** for data access and transactions
-- Implemented role-based workflows and validated end-to-end data flows  
+### Software Developer — HDFC Asset Management Company  
+**Jan 2025 - Feb 2026**
 
-**Tech:** Flask, PostgreSQL, SQLAlchemy, React, Git, Linux  
-🔗 github.com/RentMyHome
+- Built a full-stack **Portfolio Management System** using React, Flask, and PostgreSQL
+- Parsed ECAS financial statements from CDSL, NSDL, CAMS, and KFintech
+- Extracted ISIN codes, holdings, valuations, and portfolio data using PyMuPDF and structured parsing logic
+- Designed PostgreSQL schemas and ETL pipelines for unstructured financial document ingestion
+- Built REST APIs and secure session-based authentication
+- Developed dashboards for portfolio insights, asset allocation, and valuation trends
+- Integrated AWS Lambda and S3 for scheduled cloud-native workflows
+- Worked on reliability, fault tolerance, and production data consistency across varying document formats
 
----
-
-## 🛠️ Technical Skills
-
-### **Programming & Data**
-`Python` `SQL` `JavaScript` `C++` `Java`
-
-### **Data & Analytics**
-`Pandas` `Power BI` `Recharts`  
-`Data Cleaning` `ETL Pipelines` `Financial Analytics`
-
-### **Backend & Databases**
-`Flask` `PostgreSQL` `SQLAlchemy`
-
-### **Cloud & Tools**
-`AWS (S3, Lambda, QuickSight, boto3)`  
-`Git` `Linux`
+**Tech:** Python, Flask, PostgreSQL, React, AWS Lambda, S3, PyMuPDF, SQL, Git, Linux
 
 ---
 
-## 📜 Certifications
+## Featured Projects
 
-- ☁️ **AWS Certified Cloud Practitioner** (Valid till 01/2027)
-- ☁️ **Google Cloud Digital Leader** (Valid till 02/2027)
+### ScaleServe
+**Distributed compute and remote execution platform**
+
+A full-stack infrastructure tool for managing machines, running workloads, and experimenting with distributed LLM inference across private networks.
+
+**Highlights:**
+
+- Flutter desktop app for macOS and Windows
+- FastAPI backend with PostgreSQL
+- Tailscale + SSH based remote execution
+- JWT auth, MFA, RBAC, and runtime sync
+- llama.cpp RPC based model sharding
+- CLI support for headless workflows
+
+**Tech:** Flutter, Dart, FastAPI, PostgreSQL, Python, Tailscale, SSH, Oracle Cloud, nginx
 
 ---
 
-## 📈 GitHub Stats
+### Personal Finance Agent
+**AI financial intelligence platform**
+
+A platform that converts bank statement PDFs into structured transactions, analytics, goals, forecasts, and insights using a policy-guided LLM pipeline.
+
+**Highlights:**
+
+- Multi-stage PDF extraction and validation
+- Merchant normalization and transaction categorization
+- Local LLM inference via Ollama
+- JWT authentication and rate limiting
+- React + Flask + PostgreSQL full-stack architecture
+
+**Tech:** React, TypeScript, Flask, PostgreSQL, Python, Ollama, LLM pipelines
+
+---
+
+### Portfolio Management System
+**Financial analytics platform for ECAS statements**
+
+A system for extracting and analyzing portfolio data from financial statement PDFs.
+
+**Highlights:**
+
+- Automated extraction of ISINs, holdings, asset names, and valuations
+- PostgreSQL schema design for portfolio and historical snapshots
+- Secure per-user uploads
+- Portfolio aggregation and valuation analytics
+- Interactive dashboard visualizations
+
+**Tech:** Python, Flask, PostgreSQL, React, TypeScript, PyMuPDF, Recharts
+
+---
+
+## Technical Skills
+
+### Languages
+`Python` `Java` `C++` `JavaScript` `TypeScript` `SQL` `Dart`
+
+### Backend
+`FastAPI` `Flask` `Node.js` `REST APIs` `JWT` `MFA` `RBAC` `Microservices`
+
+### Data & Databases
+`PostgreSQL` `SQL` `ETL Pipelines` `Schema Design` `Financial Analytics` `PyMuPDF`
+
+### Frontend
+`React` `Flutter` `Recharts` `API Integration` `UI State Management`
+
+### Distributed Systems & Infrastructure
+`SSH` `Tailscale` `Fault Tolerance` `Asynchronous Execution` `Distributed LLM Inference` `llama.cpp`
+
+### Cloud & DevOps
+`AWS Lambda` `AWS S3` `boto3` `Oracle Cloud` `Linux` `nginx` `Git` `CI/CD`
+
+---
+
+## Education
+
+**Master of Science in Data Science**  
+RMIT University, Melbourne  
+Expected Dec 2027
+
+**B.Tech in Computer Science Engineering**  
+Vellore Institute of Technology  
+May 2025
+
+---
+
+## Certifications
+
+- AWS Certified Cloud Practitioner
+- Google Cloud Digital Leader
+- IBM Z Xplore - Concepts & Advanced
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamathawale&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SohamAthawale&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamathawale" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SohamAthawale&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamathawale&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohamAthawale&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 📧 **Email:** sohamathawale2003@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/soham-athawale  
+- Email: **sohamathawale2003@gmail.com**
+- LinkedIn: **https://linkedin.com/in/SohamAthawale**
+- GitHub: **https://github.com/SohamAthawale**
+- Portfolio: **https://sohamathawale.ddns.net**
 
 ---
 
-⭐️ *Focused on building data-driven systems and real-world analytics.*
+<p align="center">
+  Building backend systems, data platforms, and private distributed compute infrastructure.
+</p>
